@@ -1,16 +1,60 @@
-# React + Vite
+# WEB102 Unit 3 Lab - On My Grind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Student:** Moses
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A React/Vite barista quiz app where users guess drink ingredients using radio button form inputs.
 
-## React Compiler
+## Required Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [x] One drink at a time is displayed
+- [x] User can select one option for each of four categories
+- [x] Selected option appears in the answer box
+- [x] New selections replace old selections
+- [x] Check Answer validates correctness
+- [x] Correct and incorrect answers receive visual feedback
+- [x] New Drink button loads a new drink and clears inputs
 
-## Expanding the ESLint configuration
+## Stretch Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [ ] Typed responses are NOT implemented
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## React Concepts Practiced
+
+- `useState`
+- Components
+- Props
+- Controlled form inputs
+- Event handling
+- Conditional styling
+- JSON data import
+
+## Installation and Running Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build Verification
+
+```bash
+npm run lint
+npm run build
+```
+
+## GitHub Repository
+
+[https://github.com/Jimbol2023/web102-unit3-on-my-grind](https://github.com/Jimbol2023/web102-unit3-on-my-grind)
+
+## Notes
+
+Required lab features are implemented. Stretch text-input feature was not implemented.

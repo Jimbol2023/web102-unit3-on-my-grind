@@ -1,0 +1,58 @@
+{
+  "drinks": [
+    {
+      "name": "Caffe Latte",
+      "ingredients": {
+        "temp": "hot",
+        "milk": "cow",
+        "syrup": "none",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "cow",
+        "syrup": "caramel",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Mocha Frappuccino",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "cow",
+        "syrup": "mocha",
+        "blended": "yes"
+      }
+    },
+    {
+      "name": "Vanilla Sweet Cream Cold Brew",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "cow",
+        "syrup": "vanilla",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Oatmilk Maple Latte",
+      "ingredients": {
+        "temp": "hot",
+        "milk": "oat",
+        "syrup": "maple",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Almondmilk Toffee Latte",
+      "ingredients": {
+        "temp": "hot",
+        "milk": "almond",
+        "syrup": "toffee",
+        "blended": "no"
+      }
+    }
+  ]
+}
