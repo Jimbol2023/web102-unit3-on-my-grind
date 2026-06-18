@@ -1,6 +1,6 @@
 # WEB102 Unit 3 Lab - On My Grind
 
-**Student:** Moses
+**Student:** Olabode Jimoh
 
 ## Description
 
